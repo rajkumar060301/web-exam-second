@@ -1,0 +1,22 @@
+.sec{
+    height: 600px;
+    width: 100%;
+    border: 2px solid black;
+}
+body{
+    background-color: #FF00FF;
+}
+#img-first{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#img-second{
+    margin-left: 10%;
+    height: 20%;
+    width: 30%;
+    position: fixed;
+
+}
+#img-foot{
+}
